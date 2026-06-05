@@ -9,7 +9,9 @@
 [![Website](https://img.shields.io/badge/Website-infexor.com-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://infexor.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/saif_on_insta/)
 [![Email](https://img.shields.io/badge/Email-theundergroundsec-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theundergroundsec@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=cyberwithsaif&style=for-the-badge&color=58A6FF)](https://github.com/cyberwithsaif)
+
+![Followers](https://img.shields.io/github/followers/cyberwithsaif?style=for-the-badge&color=58A6FF&labelColor=0D1117&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=cyberwithsaif&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
 
@@ -78,7 +80,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Public Projects
 
 | Project | Stack | What it is |
 |---------|-------|------------|
@@ -93,29 +95,40 @@
 
 ## 🔒 Private & Client Work
 
-A large part of my work lives in **private repositories** — security-hardened, production
-products built for clients and ventures. Highlights:
+Most of my work is in **private repositories** — security-hardened, production products built
+for clients and ventures (code private; listed here for portfolio reference):
 
-- 🏨 **Luxury Hotel Booking Platform** — Flutter app + Flutter admin + Node/TypeScript/Prisma/PostgreSQL API (daily & hourly stays, VIP tiers, wallet, payments, live support) — *passed a full white-box security audit & hardening pass*
-- 💹 **Fintech / exchange platforms** — real-money flows with fail-closed payments
-- 🧩 **CRM / MLM systems**, monitoring & utility tools, and several brand websites
+| Project | Stack | Domain |
+|---------|-------|--------|
+| 🏨 **hotel-booking** | Flutter · Node · TypeScript · Prisma · PostgreSQL | Luxury hotel booking platform — app + admin + API *(passed a full white-box security audit & hardening)* |
+| 🍌 **banana-pay** | TypeScript | Payments / fintech |
+| 🪙 **cryptocurrency_website_and_app** | TypeScript | Crypto exchange website + mobile app |
+| 🚕 **onrides** | TypeScript | Taxi / ride booking app |
+| 💎 **diamondexchange** | HTML · JS | Diamond trading exchange |
+| 🧒 **child-monitor** | JavaScript | Parental / child monitoring system |
+| 🎓 **academy_courses_institute_mangement** | TypeScript | Institute & course management system |
+| 🏢 **myportfolioweb** | HTML · CSS | Infexor company website & projects |
+| 🧾 **resume_builder** | HTML · JS | Online resume builder |
+| 🌐 **cc_website** | TypeScript | Business web platform |
+| 👤 **profilesaif** | TypeScript | Personal portfolio platform |
+| 🔴 **DarkRed** | — | Private project |
 
 > 🤝 Open to freelance & security-review engagements — [theundergroundsec@gmail.com](mailto:theundergroundsec@gmail.com)
 
 ---
 
-## 📊 GitHub Stats & Grade
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cyberwithsaif&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberwithsaif&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="top langs" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cyberwithsaif&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E)](https://github.com/cyberwithsaif)
 
-<img src="https://streak-stats.demolab.com/?user=cyberwithsaif&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=cyberwithsaif&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=cyberwithsaif&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub stats & grade" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberwithsaif&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top languages" />
 
 </div>
+
+> _The stats & grade card above is rendered by a third‑party service that is occasionally rate‑limited — refresh if a card doesn't load._
 
 ---
 

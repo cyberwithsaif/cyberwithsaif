@@ -2,7 +2,7 @@
 
 # Hi, I'm Saif 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Ex+Cyber+Forensics+Investigator+%F0%9F%94%8D;CEH+Master+%7C+CCNA+%7C+VAPT+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+%26+App+Developer+%F0%9F%9A%80;I+build+secure%2C+production-grade+apps&font=Fira%20Code&center=true&width=560&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Ex+Cyber+Forensics+Investigator+%F0%9F%94%8D;CEH+Master+%7C+CCNA+%7C+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+%26+App+Developer+%F0%9F%9A%80;I+build+secure%2C+production-grade+apps&font=Fira%20Code&center=true&width=560&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" /></a>
 
 **Security researcher × full-stack engineer** — I break things, then build them properly.
 
